@@ -1,0 +1,114 @@
+p{
+     color: #8f3809e2;
+     /* background-color: #78def0; */
+     font-size: 20px;
+     font-family: 'Courier New', Courier, monospace;
+     /* text-decoration: dotted; */
+     letter-spacing: normal;
+     word-spacing: 10px;
+     line-height: 25px;
+     font-weight: bolder;
+}
+img{
+     height: 290px;
+     width: 250px;
+     margin: 3px;
+     margin-top: 10px;
+     border-top-left-radius: 30px;
+     /* border-top-right-radius: 30px; */
+     border-bottom-right-radius: 30px;
+     /* border-radius: 35px; */
+     /* flex-direction: column; */
+     display: flex;
+     /* position: sticky; */
+     border: 15px outset magenta;
+}
+h2{
+    word-spacing: 15px; 
+    background-color: #00ffff;
+    /* color: chartreuse; */
+    color: #8a2be2;
+    font-style: italic;
+    font-size: 30px;
+    position:sticky;
+}
+a{
+     text-indent: 60px;
+     font-style: italic;
+     
+}
+
+.mine{
+     /* position: relative; */
+     background-color: #0000ff;
+     color: #ff0000;
+     /* border-color:; */
+     /* background-size: 100px;
+     border-style: dotted;
+     font-size: 60px;
+     height: 50px;
+     background-position-x: 50px; */
+     width: 990px;
+     height: 990px;
+     border: 5px dotted #00ff00;
+     position: absolute;
+     display: flex;
+     /* flex-direction: column-reverse; */
+     font-size: 20px;
+     font-weight: 550;
+     /* text-shadow: 1px 2px 3px; */
+     text-indent: 20px;
+     word-spacing: 5px;
+     letter-spacing: 1px;
+     margin: 25px;
+     margin-top: 100px;
+     margin-bottom: 100px;
+     text-transform: capitalize;
+}
+#first, #third{
+     background-color: #e9f4d2;
+     width: 150px;
+     height: 150px;
+     border: 5px dotted yellowgreen;
+     margin: 10px;
+}
+#second, #fourth{
+     background-color: #f1d5e5;
+     width: 150px;
+     height: 150px;
+     border: 5px dotted darkmagenta;
+     margin: 10px;
+}
+.contains{
+     /* display: flex; */
+     /* flex-direction: row; */
+     height: 1000px;
+     width: 1000px;
+     background-color: darkolivegreen;
+     margin-inline-start: 5px;
+     display: flex;
+     flex-direction: row;
+     color: aliceblue;
+     font-size: 50px;
+}
+/* #one{
+     height: 200px;
+     width: 200px;
+     background-color: bisque;
+     display: inline-block;
+     margin: 5px;
+}
+#two{
+     height: 200px;
+     width: 200px;
+     background-color: lavender;
+     margin: 5px;
+    
+}
+#three{
+     height: 200px;
+     width: 200px;
+     background-color: lemonchiffon;
+     margin: 5px;
+   
+} */

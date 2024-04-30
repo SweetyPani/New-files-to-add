@@ -1,0 +1,21 @@
+html {
+     background: #E3ED9D;
+}
+
+.container {
+display: grid;
+text-align: center;
+grid-auto-columns: minmax (15rem, auto);
+
+grid-template-columns: 200px 200px 200px;
+grid-gap: 1rem;
+}
+
+.item {
+background: white;
+border: 3px solid black;
+color: #a579cc;
+padding: 2rem;
+font-size: 2rem;
+text-align: center;
+}

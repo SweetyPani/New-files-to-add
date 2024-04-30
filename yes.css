@@ -1,0 +1,52 @@
+*{
+     margin: 0px;
+     padding: 0px;
+}
+div{
+     height: 800px;
+     width: 900px;
+     background-color: lightgray;
+     align-items: center;
+     /* margin: 50px; */
+     /* padding: 50px; */
+     transform: translate(100px, 100px);
+     /* transform: translateY(100px); */
+     font-family: sans-serif;
+     display: inline-flex;
+}
+#first{
+     height: 120px;
+     width: 150px;
+     background-color: cornflowerblue;
+     border: 10px;
+}
+#second{
+     height: 120px;
+     width: 150px;
+     background-color: cornflowerblue;
+     border: 10px;
+}
+#third{
+     height: 120px;
+     width: 150px;
+     background-color: cornflowerblue;
+     border: 10px;
+}
+#fourth{
+     height: 120px;
+     width: 150px;
+     background-color: cornflowerblue;
+     border: 10px;
+}
+#fifth{
+     height: 120px;
+     width: 150px;
+     background-color: cornflowerblue;
+     border: 10px;
+}
+#sixth{
+     height: 120px;
+     width: 150px;
+     background-color: cornflowerblue;
+     border: 10px;
+}

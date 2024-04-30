@@ -1,0 +1,47 @@
+<html lang="en">
+
+<body>
+
+<div id="third">DIV 3</div>
+
+</div>-->
+
+<p>Lorem ipsum dolor sit, amet cons
+
+<nav>
+
+<a href="#">Facebook</a>
+
+<a href="#">Twitter</a>
+
+<a href="#">Instagram</a>
+
+<a href="#">Whatsapp</a>
+
+<a href="#">Snapchat</a>
+
+<a href="#">LinkedIn</a>
+
+</nav>
+
+<p>Lorem ipsum dolor sit, amet cons
+
+</body>
+
+</html>
+
+css
+
+a{
+text-decoration: none;
+margin: 20px;
+}
+nav{
+border: 1px solid yellow;
+background-color: yellow;
+padding: 10px;
+position: sticky;
+top: 20px;
+}
+
+https://media.istockphoto.com/id/1447860618/photo/happy-indian-girl-kid-hugging-her-big-teddy-bear-isolated-over-beige-studio-background.jpg?s=1024x1024&w=is&k=20&c=BXsVwu9Nnj1CWyAbJXb2DFgypiqYfdh4_Fn6slDBa7U=

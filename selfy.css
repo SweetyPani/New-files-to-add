@@ -1,0 +1,86 @@
+/* .yes{
+     height: 100px;
+     width: 100px;
+     background-color: brown;
+     margin: 20px;
+     transform: translateX(500px);
+     
+}
+.yes:hover{
+     background-color: brown;
+     transition-property: transform;
+     transition-duration: 2s;
+     transition-delay: 2s;
+     border-color: aqua;
+     transition-timing-function: ease-in;
+} */
+.yu{
+     /* margin: 5px;
+     padding: 02px; */
+     font-family: sans-serif;
+     display: flex;
+     background-color: midnightblue;
+     height: 900px;
+     width: 900px;
+}
+#d1{
+     height: 100px;
+     width: 100px;
+     margin: 4px;
+     background-color: coral;
+}
+input{
+     background-color: tomato;
+     align-items: center;
+     border-color: firebrick;
+     border-radius: 4px;
+}
+#d2{
+     height: 100px;
+     width: 100px;
+     margin: 4px;
+     background-color: cadetblue;
+}
+#d3{
+     height: 100px;
+     width: 100px;
+     margin: 4px;
+     background-color: cornsilk;
+}
+img{
+     height: 60px;
+     width: 60px;
+     margin-left: 10px;
+}
+#d4{
+     height: 100px;
+     width: 100px;
+     margin: 4px;
+     background-color: lavenderblush;
+}
+#d5{
+     height: 100px;
+     width: 100px;
+     margin: 4px;
+     background-color: mintcream;
+}
+.gr{
+     height: 200px;
+     width: 250px;
+}
+.inside{
+     position: relative;
+     display: flex;
+}
+.inset{
+     text-align: right;
+     position: absolute;
+     margin-left: 10px;
+     color: bisque;
+}
+h6{
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-size: 20px;
+     font-weight: 600;
+     
+}
